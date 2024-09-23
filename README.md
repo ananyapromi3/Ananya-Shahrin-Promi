@@ -7,7 +7,7 @@ This is **Ananya Shahrin Promi**, a **Junior Year (Level-3, Term 2) CS Undergrad
 
 <div align="center">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananyapromi3&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananyapromi3&theme=dracula) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ananyapromi3&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ananyapromi3&theme=dracula)
 
